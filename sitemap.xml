@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://jimwilly.me/</loc>
+        <loc>https://jimwilly.dev/</loc>
         <lastmod>2024-02-19</lastmod>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://jimwilly.me/cv.html</loc>
+        <loc>https://jimwilly.dev/cv.html</loc>
         <lastmod>2024-02-19</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jimwilly.me/hire-me.html</loc>
+        <loc>https://jimwilly.dev/hire-me.html</loc>
         <lastmod>2024-02-19</lastmod>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://jimwilly.me/projects-grid-cards.html</loc>
+        <loc>https://jimwilly.dev/projects-grid-cards.html</loc>
         <lastmod>2024-02-19</lastmod>
         <priority>0.7</priority>
     </url>
